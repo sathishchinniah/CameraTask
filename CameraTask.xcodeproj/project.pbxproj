@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					90D9C6EB1E3A2024004C954E = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 4ZZYSL38D9;
 						ProvisioningStyle = Automatic;
 					};
 					90D9C6FF1E3A2025004C954E = {
@@ -410,7 +411,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4ZZYSL38D9;
 				INFOPLIST_FILE = CameraTask/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "sathish-chinniah.CameraTask";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -422,7 +425,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4ZZYSL38D9;
 				INFOPLIST_FILE = CameraTask/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "sathish-chinniah.CameraTask";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -503,6 +508,7 @@
 				90D9C7161E3A2025004C954E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		90D9C7171E3A2025004C954E /* Build configuration list for PBXNativeTarget "CameraTaskTests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +517,7 @@
 				90D9C7191E3A2025004C954E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		90D9C71A1E3A2025004C954E /* Build configuration list for PBXNativeTarget "CameraTaskUITests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +526,7 @@
 				90D9C71C1E3A2025004C954E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
